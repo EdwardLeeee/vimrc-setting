@@ -1,7 +1,7 @@
 # vimrc-setting
 ```
 :set nu
-//:set mouse=a
+:set mouse=a
 syntax on
 highlight pythonVariable ctermfg=LightGreen guifg=LightGreen
 highlight pythonKeyword ctermfg=LightMagenta guifg=LightMagenta
